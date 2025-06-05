@@ -31,7 +31,7 @@ This repository showcases an interactive Power BI dashboard that analyzes trends
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./preview.png)
+![Dashboard Preview](https://github.com/Moosa25/Trends-in-Course-Type-Skills-and-Language-Preferences/blob/main/Pre-View%20of%20Dashboard.png)
 
 
 
